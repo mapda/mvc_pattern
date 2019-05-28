@@ -1,0 +1,11 @@
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\bin\Debug\netcoreapp2.0\StudentIdentification.deps.json
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\bin\Debug\netcoreapp2.0\StudentIdentification.runtimeconfig.json
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\bin\Debug\netcoreapp2.0\StudentIdentification.runtimeconfig.dev.json
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\bin\Debug\netcoreapp2.0\StudentIdentification.dll
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\bin\Debug\netcoreapp2.0\StudentIdentification.pdb
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\obj\Debug\netcoreapp2.0\StudentIdentification.csprojAssemblyReference.cache
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\obj\Debug\netcoreapp2.0\StudentIdentification.csproj.CoreCompileInputs.cache
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\obj\Debug\netcoreapp2.0\StudentIdentification.AssemblyInfoInputs.cache
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\obj\Debug\netcoreapp2.0\StudentIdentification.AssemblyInfo.cs
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\obj\Debug\netcoreapp2.0\StudentIdentification.dll
+c:\users\toshiba\source\repos\StudentIdentification\StudentIdentification\obj\Debug\netcoreapp2.0\StudentIdentification.pdb
